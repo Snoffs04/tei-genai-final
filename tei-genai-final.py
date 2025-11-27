@@ -1,5 +1,3 @@
-Colab thing:
-
 
 # Solar Tracker Neural Network Training - Regression Model
 # Run this in Google Colab
@@ -233,4 +231,5 @@ print("1. Download 'nn_weights.h' file")
 print("2. Place it in your Arduino sketch folder")
 print("3. Upload the Arduino code with the neural network")
 print("4. Your solar tracker will use AI to control the servo!")
+
 
